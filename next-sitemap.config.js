@@ -1,0 +1,35 @@
+/** next-sitemap.config.js */
+module.exports = {
+  siteUrl: "https://marsos.sa",
+  generateRobotsTxt: false,
+  cleanup: true, // remove old sitemap-*.xml first
+  changefreq: "daily",
+  priority: 0.7,
+  exclude: [
+    "/404",
+    "/cart",
+    "/checkout",
+    "/checkout/*",
+    "/payment-details",
+    "/payment-failed",
+    "/payment-success",
+    "/orders",
+    "/orders/*",
+    "/buyer-messages",
+    "/buyer-dashboard",
+    "/buyer-dashboard/*",
+    "/admin-login",
+    "/admin-dashboard",
+    "/admin-dashboard/*",
+    "/supplier-dashboard",
+    "/supplier-dashboard/*",
+    "/user-*",
+    "/api/**",
+    "/sentry-example-page",
+    "/sentry-example-page/*",
+  ],
+  additionalPaths: async (config) => [
+    await config.transform(config, "/marsos"),
+    await config.transform(config, "/مرصوص"),
+  ],
+};

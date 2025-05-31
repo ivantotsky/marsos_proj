@@ -1,0 +1,1222 @@
+{
+  "seo": {
+    "marsos": {
+      "title": "Marsos | Marsos SA for Saudi industrial marketing and Digital transformation",
+      "description": "Marsos – Discover top Saudi industrial products on Marsos with premium quality and competitive prices from the kingdom of Saudi Arabia.",
+      "canonical": "https://marsos.sa/marsos"
+    }
+  },
+  "header": {
+    "account": "Account",
+    "signin": "Sign In",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "messages": "Messages",
+    "cart": "Cart",
+    "request_rfq": "Request RFQ",
+    "location": "Location",
+    "home": "Home",
+    "all_categories": "All Categories",
+    "featured": "Featured Selections",
+    "trending": "Trending Products",
+    "secured_trading": "Secured Trading",
+    "help_center": "Help Center",
+    "become_supplier": "Become a Supplier"
+  },
+  "search": {
+    "searchPlaceholder": "Search products...",
+    "productsHeading": "Products",
+    "noResults": "No matching products found."
+  },
+  "hero": {
+    "title": "Effortless Shopping for the Saudi Products, Right at Your Fingertips",
+    "paragraph1": "We’re here to make your importing experience as comfortable and seamless as possible. Discover a platform that unites the products from across the Kingdom of Saudi Arabia—all in one place.",
+    "paragraph2": "From manufactures to your door, we bring together a diverse range of services with a user-friendly technology and convenient payment options, to have a seamless purchasing experience",
+    "banner1": {
+      "cta": "Know More"
+    },
+    "banner2": {
+      "title": "Trusted Saudi Suppliers",
+      "desc": "Access a curated network of certified manufacturers across Saudi Arabia. From textiles to tools, source directly from industry leaders.",
+      "cta": "Browse Suppliers"
+    },
+    "banner3": {
+      "title": "Verified Quality Products",
+      "desc": "Our suppliers meet global standards for product quality, certifications, and safety. Shop with confidence, every time.",
+      "cta": "See Verified Products"
+    },
+    "categories": "Categories",
+    "recommendations": "Recommended for You",
+    "productsInCategory": "Products",
+    "requestRFQ": "Request RFQ",
+    "cards": {
+      "choice": "Wide Choices",
+      "choiceDesc": "Access diverse suppliers and products",
+      "secure": "Secure Trading",
+      "secureDesc": "Your transactions are safe with us",
+      "topSupplier": "Top Suppliers",
+      "topSupplierDesc": "Partner with industry leaders",
+      "fastResponse": "Fast Response",
+      "fastResponseDesc": "Receive quick quotes and offers"
+    }
+  },
+  "product": {
+    "unnamed": "Unnamed Product"
+  },
+
+  "loading": "Loading...",
+  "errors": {
+    "failedToLoadProducts": "Failed to load products. Please try again."
+  },
+
+  "product_card": {
+    "hot": "Hot",
+    "unnamed_product": "Unnamed Product",
+    "login_first": "Please log in to contact the supplier.",
+    "no_supplier": "Supplier ID is missing.",
+    "supplier": "Supplier",
+    "unknown": "Unknown",
+    "negotiable": "Pricing Negotiable - Contact Supplier",
+    "min_order": "Min. Order: {{minOrder}} pcs",
+    "view_details": "View Details",
+    "contact_supplier": "Contact Supplier",
+    "description": "Description",
+    "reviews": "Reviews",
+    "no_description": "No description available.",
+    "no_reviews": "No reviews yet.",
+    "category": "Product Category",
+    "pricing": "Pricing",
+    "pcs": "pcs",
+    "unlimited": "Unlimited",
+    "loading": "Loading Product Details",
+
+    "not_found": "Product not found.",
+
+    "negotiable_price": "Pricing Negotiable - Contact Supplier",
+    "cannot_chat_own": "You cannot chat with your own product",
+    "quantity": "Quantity",
+    "minimum_qty": "Minimum quantity is",
+    "select_size": "Select Size",
+    "select_color": "Select Color",
+    "delivery_location": "Delivery Location",
+    "choose_option": "Choose an option",
+    "shipping_cost": "Shipping Cost",
+    "subtotal": "Subtotal",
+    "add_to_cart": "Add to Cart",
+
+    "alert_quantity": "Please enter a valid quantity.",
+    "alert_size": "Please select a size.",
+    "alert_color": "Please select a color.",
+    "alert_location": "Please select a delivery location.",
+    "contact_for_price": "Contact supplier to negotiate the price.",
+    "added_to_cart": "Product added to cart!",
+    "cart_error": "Failed to add item to cart.",
+    "view_cart": "View Cart",
+    "you_own": "You own this product"
+  },
+  "uncategorized": "Uncategorized",
+  "sticky": {
+    "products": "Products",
+    "search_placeholder": "Search for products...",
+    "research": "Search",
+    "delivery_to": "Deliver to",
+    "flags": {
+      "sa": "Saudi Arabia",
+      "ae": "UAE",
+      "qa": "Qatar",
+      "om": "Oman",
+      "kw": "Kuwait",
+      "bh": "Bahrain"
+    }
+  },
+
+  "footer": {
+    "aboutTitle": "About Marsos",
+    "aboutText": "Discover top Saudi industrial products on Marsos with premium quality and competitive prices from the kingdom of Saudi Arabia.",
+    "quickLinks": "Quick Links",
+    "browseSuppliers": "Browse Suppliers",
+    "exploreProducts": "Explore Products",
+    "viewCategories": "View Categories",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "language": "Language",
+    "followUs": "Follow Us",
+    "rights": "© 2025 Marsos Technologies. Driving trade and innovation across Saudi Arabia."
+  },
+
+  "home": {
+    "title": "Marsos - Saudi Marketplace for Products and Suppliers",
+    "description": "Marsos is a digital Saudi marketplace connecting suppliers and buyers for materials, equipment, and local products."
+  },
+  "topbar": {
+    "email": "marsos@marsos.sa",
+    "phone": "+966530014707",
+    "becomeSupplier": "Become a Supplier",
+    "yourLocation": "Your Location"
+  },
+  "navbar": {
+    "logout": "Logout",
+    "Home": "Home",
+    "Featured Products": "Featured Products",
+    "Categories": "Categories",
+    "Contact": "Contact",
+    "USD": "USD",
+    "SAR": "SAR",
+    "rfqs": "RFQs"
+  },
+
+  "menu": {
+    "home": "Home",
+    "profiles": "Profiles",
+    "terms": "Terms",
+    "employees": "Employees",
+    "messages": "Messages",
+    "products": "Products",
+    "orders": "Orders",
+    "rfqs": "RFQs",
+    "settings": "Settings",
+    "support": "Support"
+  },
+
+  "dashboard": {
+    "title": "Supplier Dashboard",
+    "totalSales": "Total Sales",
+    "rfqsReceived": "RFQs Received",
+    "completedOrders": "Completed Orders",
+    "responseRate": "Response Rate",
+    "changePrefix": "",
+    "changeSuffix": ""
+  },
+
+  "sidebar": {
+    "title": "Supplier Panel",
+    "menu": "Menu",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "terms": "Terms",
+    "employees": "Employees",
+    "messages": "Messages",
+    "products": "Products",
+    "orders": "Orders",
+    "rfqs": "RFQs",
+    "settings": "Settings",
+    "support": "Support"
+  },
+
+  "terms": {
+    "title": "Manage Terms & Conditions",
+    "loading": "Loading terms…",
+    "placeholder": "Write your terms and conditions here…",
+    "saveButton": "Save Terms and Conditions",
+    "fetchError": "❌ Failed to fetch terms.",
+    "saveSuccess": "✅ Terms and Conditions saved successfully.",
+    "saveError": "❌ Error saving terms."
+  },
+
+  "messages": {
+    "title": "Messages",
+    "loading": "Loading messages…",
+    "none": "No messages yet.",
+    "labels": {
+      "rfq": "RFQ Inquiry",
+      "product": "Product Inquiry",
+      "cart": "Cart Inquiry",
+      "order": "Order Inquiry"
+    },
+    "unknownBuyer": "Unknown Buyer",
+    "table": {
+      "buyer": "Buyer",
+      "type": "Concern Type",
+      "action": "Action"
+    },
+    "open": "Open"
+  },
+
+  "products": {
+    "title": "My Products",
+    "subtitle": "Manage your product listings",
+    "uncategorized": "Uncategorized",
+    "confirmDelete": "Are you sure you want to delete this product?",
+    "loading": "Loading products…",
+    "notAuthorized": "You are not authorized.",
+    "sortBy": "Sort By",
+    "location": "Location",
+    "price": "Price",
+    "quantity": "Quantity",
+    "searchPlaceholder": "Search products…",
+    "filter": "Filter",
+    "search": "Search",
+    "export": "Export",
+    "options": "Options",
+    "addNew": "Add New Product",
+    "image": "",
+    "name": "Product Name",
+    "supplierName": "Supplier",
+    "pricing": "Pricing",
+    "size": "Sizes",
+    "color": "Colors",
+    "actions": "Actions",
+    "na": "N/A",
+    "min": "Min",
+    "max": "Max",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "of": "of"
+  },
+
+  "construction": {
+    "price_range": "From {{lowestPrice}} to {{highestPrice}}",
+    "unnamed_product": "Unnamed Product",
+    "view_details": "View Details",
+    "min_order": "Min. order: {{minOrder}} piece(s)"
+  },
+  "equipment": {
+    "price_range": "From {{lowestPrice}} to {{highestPrice}}",
+    "unnamed_product": "Unnamed Product",
+    "view_details": "View Details",
+    "min_order": "Min. order: {{minOrder}} piece(s)"
+  },
+  "plastic_papers": {
+    "price_range": "From {{lowestPrice}} to {{highestPrice}}",
+    "unnamed_product": "Unnamed Product",
+    "view_details": "View Details",
+    "min_order": "Min. order: {{minOrder}} piece(s)"
+  },
+  "saudi_manufactured": {
+    "price_range": "From {{lowestPrice}} to {{highestPrice}}",
+    "unnamed_product": "Unnamed Product",
+    "view_details": "View Details",
+    "min_order": "Min. order: {{minOrder}} piece(s)"
+  },
+  "manage_profiles": {
+    "title": "Manage Profiles",
+    "fields": {
+      "name": "Name",
+      "address": "Address",
+      "crNumber": "CR Number",
+      "vatNumber": "VAT Registration Number",
+      "email": "Email",
+      "role": "Role",
+      "company_description": "Company Description",
+      "logo": "Logo",
+      "current_logo": "Current Logo",
+      "no_logo_uploaded": "No logo uploaded"
+    },
+    "actions": {
+      "uploading_logo": "Uploading logo...",
+      "save": "Save",
+      "cancel": "Cancel",
+      "edit": "Edit"
+    },
+    "messages": {
+      "loading": "Loading...",
+      "no_profile_data_available": "No profile data available.",
+      "logo_uploaded_success": "Logo uploaded successfully!",
+      "profile_updated_success": "Profile updated successfully!"
+    },
+    "errors": {
+      "no_user_logged_in": "No user is logged in.",
+      "no_profile_found": "No profile found.",
+      "failed_to_load_profile": "Failed to load profile.",
+      "failed_to_update_profile": "Failed to update profile."
+    }
+  },
+  "cart": {
+    "currency": "SR",
+    "title": "Your Cart",
+    "emptyMessage": "Your cart is empty.",
+    "supplier": "Supplier",
+    "image": "Image",
+    "item": "Item",
+    "size": "Size",
+    "color": "Color",
+    "quantity": "Quantity",
+    "price": "Price",
+    "shipping": "Shipping",
+    "subtotal": "Subtotal",
+    "actions": "Actions",
+    "checkout": "Checkout",
+    "contactSupplier": "Contact Supplier",
+    "reviewOrder": "Review Order",
+    "remove": "Remove",
+    "updatedSuccessfully": "updated successfully.",
+    "failedToUpdate": "Failed to update",
+    "itemRemovedSuccessfully": "Item removed successfully.",
+    "failedToRemoveItem": "Failed to remove item.",
+    "notificationSuccess": "Success",
+    "notificationError": "Error",
+    "loginToContactSupplier": "Please log in to contact the supplier.",
+    "failedToContactSupplier": "Failed to contact the supplier.",
+    "cartEmptyError": "Your cart is empty.",
+    "unknownSupplier": "Unknown Supplier",
+    "unknownBuyer": "Unknown Buyer",
+    "notSelected": "Not selected"
+  },
+  "buyer_profile": {
+    "title": "Manage Your Profile",
+    "fields": {
+      "name": "Name",
+      "email": "Email",
+      "address": "Address",
+      "phone": "Phone",
+      "crNumber": "CR Number",
+      "vatNumber": "VAT Number",
+      "logo": "Profile Picture",
+      "current_logo": "Current Profile Picture",
+      "no_logo_uploaded": "No profile picture uploaded"
+    },
+    "messages": {
+      "loading": "Loading profile...",
+      "no_profile_data_available": "No profile data available.",
+      "logo_uploaded_success": "Profile picture uploaded successfully.",
+      "profile_updated_success": "Profile updated successfully."
+    },
+    "errors": {
+      "no_user_logged_in": "No user is logged in.",
+      "no_profile_found": "No profile found.",
+      "failed_to_load_profile": "Failed to load the profile.",
+      "failed_to_update_profile": "Failed to update the profile."
+    },
+    "actions": {
+      "edit": "Edit Profile",
+      "save": "Save Changes",
+      "cancel": "Cancel",
+      "uploading_logo": "Uploading profile picture..."
+    }
+  },
+  "review_order": {
+    "title": "Review Order",
+    "currency": "SR",
+    "product_details": {
+      "title": "Product Details",
+      "image": "Product Image",
+      "name": "Product Name",
+      "unit_price": "Unit Price",
+      "quantity": "Quantity",
+      "shipping": "Shipping",
+      "total_excl_vat": "Total Excluding VAT",
+      "tax_rate": "Tax Rate",
+      "tax_value": "Tax Value",
+      "total_incl_vat": "Total Including VAT"
+    },
+    "invoice": {
+      "tax_invoice": "Tax Invoice",
+      "date_time": "Date & Time",
+      "serial_number": "Invoice Number"
+    },
+    "supplier_info": {
+      "title": "Supplier Information",
+      "name": "Supplier Name",
+      "address": "Supplier Address",
+      "vat_number": "VAT Registration Number",
+      "cr_number": "CR Registration"
+    },
+    "buyer_info": {
+      "title": "Buyer Information",
+      "name": "Buyer Name",
+      "address": "Buyer Address",
+      "vat_number": "Buyer VAT Registration Number",
+      "cr_number": "Buyer CR Registration"
+    },
+    "totals": {
+      "total": "Total",
+      "vat": "VAT (15%)",
+      "grand_total": "Grand Total"
+    },
+    "actions": {
+      "print": "Print",
+      "checkout": "Checkout",
+      "proceed_to_checkout": "Proceed to checkout"
+    },
+    "errors": {
+      "no_supplier_found": "No supplier found.",
+      "no_buyer_found": "No buyer found.",
+      "fetch_failed": "Failed to fetch data."
+    }
+  },
+
+  "admin_dashboard": {
+    "dashboard_title": "Admin Dashboard",
+    "home": "Home",
+    "dashboard_overview": "Dashboard Overview",
+    "products": "Products",
+    "product_management": "Product Management",
+    "product_library": "Product Library",
+    "manage_orders": "Manage Orders",
+    "abandoned_carts": "Abadoned Carts",
+    "analytics_overview": "Analytics Overview",
+    "live_analytics": "Live Analytics",
+    "analytics_reports": "Analytics Reports",
+    "seo_enhancements": "SEO Enhancements",
+    "promo_code": "Promo Code",
+    "coupon_code": "Coupon Code",
+    "user_management": "User Management",
+    "suppliers": "Suppliers",
+    "buyers": "Buyers",
+    "admins_management": "Admins Management",
+    "settings": "Settings",
+    "admins": "Admin",
+    "order_management": "Order Management",
+    "orders": "Orders",
+    "analytics": "Analytics",
+    "overview": "Overview",
+    "reports": "Reports",
+    "marketing": "Marketing",
+    "page_not_found": "Page Not Found"
+  },
+  "admin_products": {
+    "products": "Products",
+    "all_products": "All Products",
+    "location": "Location",
+    "price": "Price",
+    "quantity": "Quantity",
+    "search_by": "Search by product name or supplier name",
+    "search": "Search",
+    "reset": "Reset",
+    "export_to": "Export to Excel",
+    "additional": "Additional Options",
+    "add_new": "Add New Product",
+    "all": "All",
+    "product_name": "Product Name",
+    "product": "Product",
+    "supplier_name": "Supplier Name",
+    "quantity_pricing": "Qty & Pricing",
+    "size": "size",
+    "color": "Color",
+    "actions": "Actions",
+    "edit": "Edit",
+    "remove": "Remove",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "of": "of"
+  },
+  "admin_supplier": {
+    "suppliers": "Suppliers",
+    "manage_suppliers": "Manage and view all suppliers",
+    "add_suppliers": "Add New Supplier",
+    "cancel": "Cancel",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "company_name": "Company Name",
+    "actions": "Actions",
+    "edit": "Edit",
+    "remove": "Remove",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "of": "of"
+  },
+  "admin_product_add": {
+    "supplier_name": "Supplier Name",
+    "select_supplier": "Select a Supplier",
+    "supplier_id": "Supplier ID",
+    "supplier_number": "Supplier Number",
+    "product_name": "Product Name",
+    "category": "Category",
+    "select_or_create_category": "Select or Create a Category",
+    "sub_category": "Sub Category",
+    "select_or_create_subcategory": "Select or Create a Subcategory",
+    "description": "Description",
+    "main_location": "Main Location",
+    "select_or_create_location": "Select or Create a Location",
+    "sizes": "Sizes",
+    "select_or_create_size": "Select or Create a Size",
+    "colors": "Colors",
+    "select_or_create_color": "Select or Create a Color",
+    "main_image": "Main Image",
+    "additional_images": "Additional Images",
+    "add_another_image": "Add Another Image",
+    "remove": "Remove",
+    "tier": "Price Tier",
+    "min_qty": "Min Qty",
+    "select_or_create_qty": "Select or Create a Quantity",
+    "max_qty": "Max Qty",
+    "price": "Price",
+    "select_or_create_price": "Select or Create a Price",
+    "delivery_locations": "Delivery Locations",
+    "location": "Location",
+    "location_price": "Location Price",
+    "add_location": "Add Location",
+    "remove_price_range": "Remove Price Tier",
+    "add_price_range": "Add Price Tier",
+    "upload_product": "Upload Product",
+    "uploading": "Uploading...",
+    "validation_error": "Validation Error",
+    "select_supplier_first": "Please select a supplier before submitting.",
+    "fill_all_fields": "Please fill in all required fields before submitting.",
+    "success": "Success",
+    "product_uploaded": "Your product has been uploaded successfully.",
+    "submission_error": "Submission Error",
+    "upload_failed": "Failed to upload the product. Please try again later.",
+    "title": "Upload Products",
+    "choose_file": "Choose File",
+    "no_file_chosen": "No File Chosen"
+  },
+  "buyer_registration": {
+    "title": "Buyer Registration",
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email",
+    "address": "Address",
+    "crNumber": "CR Number",
+    "choose_file": "Choose File",
+    "vatNumber": "VAT Number",
+    "logo": "Profile Picture",
+    "current_logo": "Current Profile Picture",
+    "no_logo_uploaded": "No profile picture uploaded",
+    "continue": "Continue",
+    "no_file_chosen": "No file chosen",
+    "upload_cr_license": "Upload your CR License",
+    "bank_account": "Bank Account Number",
+    "bank_name": "Bank Name",
+    "account_holder": "Account Holder Name"
+  },
+
+  "product_chats": {
+    "priceTiers": "Price Tiers",
+    "shippingPrices": "Shipping Prices",
+    "quantity": "Qty",
+    "color": "Color",
+    "size": "Size",
+    "location": "Location",
+    "subtotal": "Subtotal:",
+    "shipping": "Shipping:",
+    "addToCart": "Add to Cart",
+    "reviewOrder": "Review Order",
+    "buyerTotals": "Buyer’s Totals",
+    "productAlreadyInCart": "Product already in cart.",
+    "productAddedToCart": "Product added to cart."
+  },
+  "chat": {
+    "noMessages": "No messages yet",
+    "placeholder": "Type a message",
+    "attachPhoto": "Photo/Video",
+    "attachDocument": "Document",
+    "attachContact": "Contact"
+  },
+  "mobile_header": {
+    "messages": "Messages",
+    "rfq": "RFQ",
+    "cart": "Cart",
+    "location": "Location"
+  },
+  "productChat": {
+    "missingInfo": "Missing product or supplier information.",
+    "headingWith": "Product Query with",
+    "productLabel": "Product",
+    "errorMessage": "❌ Missing product/supplier info."
+  },
+
+  "categories": {
+    "categories": "Categories",
+    "products": "{{count}} Product(s)",
+    "no_products_found": "No products found in this subcategory."
+  },
+  "section": {
+    "trending": "Trending Products",
+    "allProducts": "All Products",
+    "allCategories": "All Categories"
+  },
+
+  "orders": {
+    "title": "Supplier Orders",
+    "loading": "Loading orders…",
+    "none": "No orders found.",
+    "unknownDate": "Unknown date",
+    "na": "N/A",
+    "sadad": "Sadad Number",
+    "bill": "Bill Number",
+    "net": "Net Amount",
+    "fee": "Fee",
+    "total": "Total Amount",
+    "status": "Status",
+    "date": "Date",
+    "actions": "Actions",
+    "invoice": "Invoice",
+    "reviewInvoice": "Review Invoice",
+    "contactBuyer": "Contact Buyer",
+    "paymentApproved": "Payment approved",
+    "statuses": {
+      "pending": "Pending",
+      "approved": "Approved",
+      "rejected": "Rejected",
+      "cancelled": "Cancelled"
+    }
+  },
+
+  "supplier-products": {
+    "title": "Products",
+    "subtitle": "Find the best products from this supplier.",
+    "filters": "Filters",
+    "categories": "Categories",
+    "priceRange": "Price Range",
+    "searchPlaceholder": "Search products...",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "of": "of",
+    "noProductsFound": "No products found.",
+    "moreFromSupplier": "More products from this supplier"
+  },
+  "rfq": {
+    "title": "Request for Quotation",
+    "category": "Category",
+    "subcategory": "Subcategory",
+    "size": "Size",
+    "color": "Color",
+    "shipping": "Shipping",
+    "details": "Product Details",
+    "upload_file": "Upload File",
+    "uploading": "Uploading",
+    "upload_failed": "File upload failed",
+    "upload_success": "File uploaded successfully",
+    "file_uploaded": "File uploaded",
+    "share_contact": "Share my business card",
+    "submit": "Submit",
+    "sending": "Sending...",
+    "must_login": "You must be logged in to send a request",
+    "fetch_categories_error": "Failed to fetch categories. Please try again later.",
+    "error_category": "Please select a category",
+    "error_subcategory": "Please select or create a subcategory",
+    "error_details": "Please enter product details",
+    "error_file": "Please upload a file",
+    "error_file_upload": "File upload in progress or failed. Please wait or retry.",
+    "no_suppliers": "No suppliers available for this category",
+    "sent_success": "RFQ sent successfully!",
+    "submit_failed": "Failed to send RFQ. Please try again.",
+    "success_message": "Your request has been sent!",
+    "redirecting": "Redirecting..."
+  },
+  "category": {
+    "category": "Category",
+    "noProductsFound": "No products found."
+  },
+
+  "employees": {
+    "manage": "Manage Employees",
+    "description": "Add, edit, or remove your team members here.",
+    "add": "Add Employee",
+    "edit": "Edit Employee",
+    "update": "Update Employee",
+    "actions": "Actions",
+    "current": "Current Employees",
+    "delete": "Delete",
+    "name": "Full Name",
+    "enter_name": "Enter full name",
+    "role": "Role",
+    "select_or_create_role": "Select or create a role",
+    "email": "Email",
+    "enter_email": "Enter email address",
+    "username": "Username",
+    "enter_username": "Enter username",
+    "password": "Password",
+    "enter_password": "Enter password",
+
+    "added": "Employee added successfully.",
+    "updated": "Employee updated successfully.",
+    "deleted": "Employee deleted successfully.",
+
+    "missing_supplier_id": "Supplier ID is missing.",
+    "user_not_authenticated": "User is not authenticated.",
+    "all_fields_required": "All fields are required.",
+    "add_employee_error": "Failed to add employee.",
+    "update_employee_error": "Failed to update employee.",
+    "delete_employee_error": "Failed to delete employee.",
+    "fetch_employees_error": "Failed to fetch employees."
+  },
+  "title": "Upload Product",
+  "uploading": "Uploading...",
+  "supplier_name": "Supplier Name",
+  "supplier_id": "Supplier ID",
+  "supplier_number": "Supplier Number",
+  "select_supplier": "Select a supplier",
+  "fetch_categories_error": "Failed to fetch categories.",
+  "fetch_suppliers_error": "Failed to fetch suppliers.",
+  "option_exists": "The option \"{{opt}}\" already exists.",
+  "option_added": "Added option \"{{opt}}\".",
+  "negative_not_allowed": "Negative numbers are not allowed.",
+  "qty_added": "Added quantity \"{{qty}}\".",
+  "qty_exists": "Quantity \"{{qty}}\" already exists.",
+  "numeric_only": "Only numeric values or 'Unlimited' allowed.",
+  "one_decimal": "Only one decimal point is allowed.",
+  "alpha_only": "Only alphabetic characters are allowed.",
+  "select_supplier_error": "Please select a supplier before submitting.",
+  "fill_all_error": "Please fill all required fields before submitting.",
+  "upload_success": "Product uploaded successfully.",
+  "upload_fail": "Failed to upload. Please try again later.",
+
+  "name_en": "Product Name (English)",
+  "name_ar": "اسم المنتج (Arabic)",
+  "desc_en": "Product Description (English)",
+  "desc_ar": "وصف المنتج (Arabic)",
+
+  "select_or_create_category": "Select or create category",
+  "sub_category": "Subcategory",
+  "select_or_create_subcategory": "Select or create subcategory",
+
+  "main_location": "Main Location",
+  "select_or_create_location": "Select or create location",
+
+  "sizes": "Sizes",
+  "select_or_create_size": "Select or create size",
+  "colors": "Colors",
+  "select_or_create_color": "Select or create color",
+
+  "main_image": "Main Image",
+  "additional_images": "Additional Images",
+  "remove": "Remove",
+  "add_another_image": "Add another image",
+
+  "tier": "Tier",
+  "remove_price_range": "Remove price range",
+  "min_qty": "Min Qty",
+  "min_qty_error": "Minimum order should be at least 1.",
+  "max_qty": "Max Qty",
+  "price": "Price",
+  "numeric_price_error": "Only numeric values are allowed for price.",
+
+  "delivery_locations": "Delivery Locations",
+  "add_price_range": "Add price range",
+  "add_location": "Add location",
+
+  "login": {
+    "title": {
+      "phone": "Login to your account",
+      "otp": "Enter OTP",
+      "register": "Complete Profile"
+    },
+    "desc": {
+      "phone": "Enter your phone number to continue",
+      "otp": "We’ve sent you a 6-digit code",
+      "register": "Fill in your details"
+    },
+    "buttons": {
+      "sendOtp": "Send OTP",
+      "sending": "Sending…",
+      "verifyOtp": "Verify OTP",
+      "verifying": "Verifying…",
+      "createAccount": "Create Account",
+      "saving": "Saving…",
+      "signUp": "Sign up"
+    },
+    "errors": {
+      "mustAcceptTerms": "You must accept the terms and privacy policy.",
+      "invalidPhone": "Enter a valid phone number.",
+      "otpSendFailed": "Failed to send OTP.",
+      "invalidOtp": "Enter the 6-digit OTP.",
+      "otpVerifyFailed": "Invalid OTP.",
+      "nameRequired": "Please enter your name.",
+      "saveUserFailed": "Error saving user data."
+    },
+    "messages": {
+      "otpSent": "OTP sent!",
+      "welcomeBack": "Welcome back!",
+      "accountCreated": "Account created!",
+      "noAccount": "You don’t have an account with us!"
+    },
+    "phoneCodes": {
+      "sa": "🇸🇦",
+      "ae": "🇦🇪",
+      "bh": "🇧🇭",
+      "kw": "🇰🇼",
+      "om": "🇴🇲",
+      "qa": "🇶🇦",
+      "ph": "🇵🇭"
+    },
+    "placeholders": {
+      "phone": "XXXXXXXXXX",
+      "fullName": "Full Name"
+    },
+    "labels": {
+      "acceptTerms": "I accept the",
+      "and": "and"
+    },
+    "links": {
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy"
+    },
+    "roles": {
+      "buyer": "Buyer",
+      "supplier": "Supplier"
+    },
+    "welcome": {
+      "title": "Welcome to Marsos",
+      "subtitle": "Trust made visible. Trade made simple."
+    }
+  },
+  "profile": {
+    "manageTitle": "Manage Company Profile",
+    "edit": "Edit",
+    "viewProfile": "View Profile",
+    "companyName": "Company Name",
+    "companyNameAr": "Company Name (عربي)",
+    "address": "Address",
+    "addressAr": "Address (عربي)",
+    "businessType": "Business Type",
+    "businessTypeAr": "Business Type (عربي)",
+    "yearOfEstablishment": "Year of Establishment",
+    "yearOfEstablishmentAr": "Year of Establishment (عربي)",
+    "numberOfEmployees": "Number of Employees",
+    "numberOfEmployeesAr": "Number of Employees (عربي)",
+    "rating": "Rating",
+    "ratingAr": "Rating (عربي)",
+    "averageResponseTime": "Average Response Time",
+    "averageResponseTimeAr": "Average Response Time (عربي)",
+    "productCertification": "Product Certification",
+    "productCertificationAr": "Product Certification (عربي)",
+    "plantArea": "Plant Area",
+    "plantAreaAr": "Plant Area (عربي)",
+    "registeredCapital": "Registered Capital",
+    "registeredCapitalAr": "Registered Capital (عربي)",
+    "auditReportNo": "Audit Report No.",
+    "auditReportNoAr": "Audit Report No. (عربي)",
+    "crNumber": "CR Number",
+    "crNumberAr": "CR Number (عربي)",
+    "vatNumber": "VAT Registration Number",
+    "vatNumberAr": "VAT Registration Number (عربي)",
+    "otherCitiesServed": "Other Cities Served",
+    "otherCitiesServedAr": "Other Cities Served (عربي)",
+    "mainProducts": "Main Products",
+    "mainProductsAr": "Main Products (عربي)",
+    "companyDescription": "Company Description",
+    "companyDescriptionAr": "Company Description (عربي)",
+    "crLicense": "CR License",
+    "logo": "Company Logo",
+    "view": "View {{what}}",
+    "carouselImages": "Carousel Images",
+    "carouselImage": "Carousel Image",
+    "addCarouselImage": "Add Carousel Image",
+    "uploadFailed": "Failed to upload {{key}}",
+    "uploaded": "{{key}} uploaded successfully",
+    "updated": "Profile updated",
+    "updateFailed": "Failed to update profile",
+    "save": "Save",
+    "cancel": "Cancel",
+
+    "companyDetails": "Company Details",
+    "authorizedPerson": "Authorized Person",
+
+    "companyDescriptionEn": "Company Description (EN)",
+
+    "city": "City",
+    "region": "Region",
+    "zipCode": "Zip Code",
+    "country": "Country",
+
+    "crLicenseUrl": "CR License",
+
+    "vatDocUrl": "VAT Document",
+
+    "companyPhone": "Company Phone",
+    "companyEmail": "Company Email",
+    "logoUrl": "Company Logo",
+
+    "authPersonName": "Authorized Person Name",
+    "designation": "Designation",
+    "authPersonEmail": "Authorized Person Email",
+    "authPersonMobile": "Authorized Person Mobile",
+    "nun": "NUN",
+    "personalIdNumber": "Personal ID Number",
+    "dateType": "Date Type",
+    "issueDate": "Issue Date",
+    "crIssueG": "CR Issue Date (G)",
+    "crIssueH": "CR Issue Date (H)",
+    "crConfirmG": "CR Confirmation Date (G)",
+    "crConfirmH": "CR Confirmation Date (H)"
+  },
+  "common": {
+    "loading": "Loading",
+    "notAuthorized": "Not authorized"
+  },
+  "tabs": {
+    "products": "Products",
+    "profile": "Company Profile"
+  },
+
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "pageInfo": "Page {{current}} / {{total}}"
+  },
+
+  "supplierProductsPage": {
+    "tabs": {
+      "products": "Products",
+      "profile": "Company Profile"
+    },
+    "sidebar": {
+      "productGroups": "Product Groups",
+      "contactSupplier": "Contact Supplier",
+      "chat": "Chat with Supplier",
+      "messagePlaceholder": "Enter between 20 to 4,000 characters",
+      "send": "Send"
+    },
+    "search": {
+      "placeholder": "Search products..."
+    },
+    "products": {
+      "all": "All",
+      "uncategorized": "Uncategorized",
+      "video": "Video"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "pageInfo": "Page {{current}} / {{total}}"
+    },
+    "common": {
+      "loading": "Loading…",
+      "notAuthorized": "Not authorized"
+    }
+  },
+
+  "supplierProfile": {
+    "loading": "Loading…",
+    "notSpecified": "Not specified",
+    "viewAll": "View All >",
+    "buttons": {
+      "virtualTour": "360° Virtual Tour",
+      "bookTour": "Book a Factory Tour"
+    },
+    "sections": {
+      "companyProfile": "Company Profile",
+      "generalInfo": "General Information"
+    },
+    "fields": {
+      "businessType": "Business Type",
+      "crNumber": "CR Number",
+      "vatNumber": "VAT Registration",
+      "mainProducts": "Main Products",
+      "yearOfEstablishment": "Year of Establishment",
+      "numberOfEmployees": "Number of Employees",
+      "address": "Address",
+      "auditReportNo": "BV Audit Report No.",
+      "rating": "Rating",
+      "averageResponseTime": "Average Response Time",
+      "productCertification": "Product Certification",
+      "plantArea": "Plant Area",
+      "registeredCapital": "Registered Capital"
+    },
+    "links": {
+      "verify": "Verify Now",
+      "readReport": "Read Free Report"
+    },
+    "verifiedCount": "{{count}} items verified",
+    "verifiedBy": "by {{who}}"
+  },
+  "supplierHeader": {
+    "loading": "Loading…",
+    "inThisSite": "In This Site",
+    "entireMarketplace": "Entire Marketplace",
+    "searchPlaceholder": "Search Products",
+    "postSourcingRequest": "Post Sourcing Request",
+    "audited": "Audited",
+    "notAudited": "Not Audited",
+    "secured": "Secured",
+    "notSecured": "Not Secured"
+  },
+
+  "user-choice": {
+    "login": {
+      "chooseRole": "Choose Your Account",
+      "desc": {
+        "chooseRole": "Select whether you’re a buyer or a supplier."
+      },
+      "buttons": {
+        "loading": "Loading…"
+      },
+      "roles": {
+        "buyer": "Buyer",
+        "supplier": "Supplier"
+      },
+      "welcome": {
+        "title": "Welcome to Marsos",
+        "subtitle": "Your gateway to seamless supplier and buyer experiences."
+      }
+    }
+  },
+  "onboarding": {
+    "welcome": {
+      "title": "Buyer Registration"
+    },
+    "steps": {
+      "authNun": "Authenticate NUN",
+      "verifyDate": "Verify Issue Date",
+      "completeDetails": "Complete Details"
+    },
+
+    "legends": {
+      "companyDetails": "Company Details",
+      "authorizedPerson": "Authorized Person Information"
+    },
+    "labels": {
+      "nun": "National Unified Number",
+      "hijri": "Hijri Date",
+      "gregorian": "Gregorian Date",
+      "issueDate": "Issue Date",
+      "companyName": "Company Name",
+      "companyEmail": "Email Address",
+      "commercialReg": "Commercial Reg. Number",
+      "crIssueG": "CR Issue (G)",
+      "crIssueH": "CR Issue (H)",
+      "crConfirmG": "CR Confirm (G)",
+      "crConfirmH": "CR Confirm (H)",
+      "vatRegNumber": "VAT Registration Number",
+      "companyPhone": "Phone Number",
+      "city": "City",
+      "zipCode": "Zip Code",
+      "country": "Country",
+      "address": "National Address",
+      "authPersonName": "Name",
+      "authPersonEmail": "User Login Email",
+      "authPassword": "Password",
+      "authPhone": "User Login Number",
+      "designation": "Designation/Role",
+      "personalIdNumber": "Personal ID Document No."
+    },
+    "placeholders": {
+      "nun": "Enter National Unified Number",
+      "companyName": "Enter company name",
+      "companyEmail": "Enter email address",
+      "commercialReg": "Enter commercial registration number",
+      "vatRegNumber": "Enter VAT registration number",
+      "companyPhone": "5XXXXXXXX",
+      "city": "Enter city",
+      "zipCode": "Enter zip code",
+      "country": "Enter country",
+      "address": "Enter your address",
+      "authPersonName": "Enter authorized person’s name",
+      "authPersonEmail": "Enter login email",
+      "authPassword": "Choose a password",
+      "authPersonMobile": "5XXXXXXXX"
+    },
+    "buttons": {
+      "authenticating": "Authenticating…",
+      "authenticate": "Authenticate",
+      "verifyingDate": "Verifying…",
+      "verify": "Verify",
+      "uploading": "Uploading…",
+      "submit": "Submit Registration"
+    },
+    "errors": {
+      "nunRequired": "Please enter your National Unified Number.",
+      "dateRequired": "Please select an issue date.",
+      "completeAllFields": "Please complete all required fields.",
+      "submitFailed": "Submission failed.",
+      "authFailed": "Authentication failed.",
+      "dateFailed": "Could not verify date."
+    },
+    "messages": {
+      "authSuccess": "Number verified!",
+      "dateVerified": "Date verified!",
+      "submitted": "Submitted! Pending approval."
+    }
+  },
+  "supplier": {
+    "welcome": {
+      "title": "Supplier Registration"
+    },
+    "steps": {
+      "authNun": "Authenticate NUN",
+      "verifyDate": "Verify Issue Date",
+      "completeDetails": "Complete Details"
+    },
+    "stepsOrder": [
+      "supplier.steps.authNun",
+      "supplier.steps.verifyDate",
+      "supplier.steps.completeDetails"
+    ],
+    "legends": {
+      "companyDetails": "Company Details",
+      "authorizedPerson": "Authorized Person Information"
+    },
+    "labels": {
+      "nun": "National Unified Number",
+      "hijri": "Hijri Date",
+      "gregorian": "Gregorian Date",
+      "issueDate": "Issue Date",
+      "companyName": "Company Name",
+      "companyEmail": "Email Address",
+      "commercialReg": "Commercial Reg. Number",
+      "crIssueG": "CR Issue (G)",
+      "crIssueH": "CR Issue (H)",
+      "crConfirmG": "CR Confirm (G)",
+      "crConfirmH": "CR Confirm (H)",
+      "vatRegNumber": "VAT Registration Number",
+      "companyPhone": "Phone Number",
+      "city": "City",
+      "zipCode": "Zip Code",
+      "country": "Country",
+      "address": "National Address",
+      "authPersonName": "Name",
+      "authPersonEmail": "User Login Email",
+      "authPassword": "Password",
+      "authPhone": "User Login Number",
+      "designation": "Designation/Role",
+      "personalIdNumber": "Personal ID Document No."
+    },
+    "placeholders": {
+      "nun": "Enter National Unified Number",
+      "companyName": "Enter company name",
+      "companyEmail": "Enter email address",
+      "commercialReg": "Enter commercial registration number",
+      "vatRegNumber": "Enter VAT registration number",
+      "companyPhone": "5XXXXXXXX",
+      "city": "Enter city",
+      "zipCode": "Enter zip code",
+      "country": "Enter country",
+      "address": "Enter your address",
+      "authPersonName": "Enter authorized person’s name",
+      "authPersonEmail": "Enter login email",
+      "authPassword": "Choose a password",
+      "authPersonMobile": "5XXXXXXXX"
+    },
+    "buttons": {
+      "authenticating": "Authenticating…",
+      "authenticate": "Authenticate",
+      "verifyingDate": "Verifying…",
+      "verify": "Verify",
+      "uploading": "Uploading…",
+      "submit": "Submit Registration"
+    },
+    "errors": {
+      "nunRequired": "Please enter your National Unified Number.",
+      "dateRequired": "Please select an issue date.",
+      "completeAllFields": "Please complete all required fields.",
+      "submitFailed": "Submission failed.",
+      "authFailed": "Authentication failed.",
+      "dateFailed": "Could not verify date."
+    },
+    "messages": {
+      "authSuccess": "Number verified!",
+      "dateVerified": "Date verified!",
+      "submitted": "Submitted! Pending approval."
+    },
+
+    "_comment": "needs translation check"
+  },
+  "cart.heading": "Your Cart",
+  "cart.emptyCart.title": "Your cart is empty",
+  "cart.emptyCart.message": "Explore our products and add some items!",
+  "cart.actions.browseProducts": "Browse Products",
+  "cart.actions.remove": "Remove",
+  "cart.actions.proceedToCheckout": "Proceed to Checkout",
+  "cart.actions.contactSupplier": "Contact Supplier to Negotiate",
+  "cart.actions.reviewOrder": "Review Order",
+  "cart.labels.qty": "Qty:",
+  "cart.labels.size": "Size:",
+  "cart.labels.color": "Color:",
+  "cart.labels.location": "Location:",
+  "cart.labels.subtotal": "Subtotal",
+  "cart.labels.shipping": "Shipping",
+  "cart.labels.vat": "VAT (15%)",
+  "cart.labels.total": "Total",
+  "cart.supplierLabel": "Supplier: {{supplier}}",
+  "cart.unknownSupplier": "Unknown Supplier",
+  "cart.errors.minQuantity": "Quantity must be at least 1"
+}
